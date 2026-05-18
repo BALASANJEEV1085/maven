@@ -36,7 +36,7 @@
         <dependency>
             <groupId>org.springframework</groupId>
             <artifactId>spring-webmvc</artifactId>
-            <version>6.2.17</version>
+            <version>6.2.8</version>
         </dependency>
 
         <!-- Commons Collections gadget chains -->
@@ -102,6 +102,83 @@
             <version>7.0.0.CR1</version>
         </dependency>
 
+    
+        <!-- Injected by SBOM.io to fix transitive vulnerability -->
+        <dependency>
+            <groupId>org.bouncycastle</groupId>
+            <artifactId>bcprov-jdk15on</artifactId>
+            <version>1.70</version>
+        </dependency>
+    
+        <!-- Injected by SBOM.io to fix transitive vulnerability -->
+        <dependency>
+            <groupId>org.bouncycastle</groupId>
+            <artifactId>bcprov-jdk15on</artifactId>
+            <version>1.70</version>
+        </dependency>
+    
+        <!-- Injected by SBOM.io to fix transitive vulnerability -->
+        <dependency>
+            <groupId>org.bouncycastle</groupId>
+            <artifactId>bcprov-jdk15on</artifactId>
+            <version>1.70</version>
+        </dependency>
+    
+        <!-- Injected by SBOM.io to fix transitive vulnerability -->
+        <dependency>
+            <groupId>org.bouncycastle</groupId>
+            <artifactId>bcprov-jdk15on</artifactId>
+            <version>1.70</version>
+        </dependency>
+    
+        <!-- Injected by SBOM.io to fix transitive vulnerability -->
+        <dependency>
+            <groupId>org.bouncycastle</groupId>
+            <artifactId>bcprov-jdk15on</artifactId>
+            <version>1.70</version>
+        </dependency>
+    
+        <!-- Injected by SBOM.io to fix transitive vulnerability -->
+        <dependency>
+            <groupId>com.squareup.okio</groupId>
+            <artifactId>okio</artifactId>
+            <version>3.4.0</version>
+        </dependency>
+    
+        <!-- Injected by SBOM.io to fix transitive vulnerability -->
+        <dependency>
+            <groupId>org.springframework</groupId>
+            <artifactId>spring-webmvc</artifactId>
+            <version>6.2.8</version>
+        </dependency>
+    
+        <!-- Injected by SBOM.io to fix transitive vulnerability -->
+        <dependency>
+            <groupId>org.jetbrains.kotlin</groupId>
+            <artifactId>kotlin-stdlib</artifactId>
+            <version>2.2.0</version>
+        </dependency>
+    
+        <!-- Injected by SBOM.io to fix transitive vulnerability -->
+        <dependency>
+            <groupId>org.jetbrains.kotlin</groupId>
+            <artifactId>kotlin-stdlib</artifactId>
+            <version>2.2.0</version>
+        </dependency>
+    
+        <!-- Injected by SBOM.io to fix transitive vulnerability -->
+        <dependency>
+            <groupId>org.apache.commons</groupId>
+            <artifactId>commons-lang3</artifactId>
+            <version>3.20.0</version>
+        </dependency>
+    
+        <!-- Injected by SBOM.io to fix transitive vulnerability -->
+        <dependency>
+            <groupId>com.fasterxml.jackson.core</groupId>
+            <artifactId>jackson-core</artifactId>
+            <version>2.18.4</version>
+        </dependency>
     </dependencies>
 
     <build>
