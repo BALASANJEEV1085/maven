@@ -29,14 +29,14 @@
         <dependency>
             <groupId>com.fasterxml.jackson.core</groupId>
             <artifactId>jackson-databind</artifactId>
-            <version>2.13.1</version>
+            <version>2.12.6.1</version>
         </dependency>
 
         <!-- Spring4Shell susceptible ecosystem -->
         <dependency>
             <groupId>org.springframework</groupId>
             <artifactId>spring-webmvc</artifactId>
-            <version>4.3.5</version>
+            <version>2.6.6</version>
         </dependency>
 
         <!-- Commons Collections gadget chains -->
@@ -92,7 +92,7 @@
         <dependency>
             <groupId>org.bouncycastle</groupId>
             <artifactId>bcprov-jdk15on</artifactId>
-            <version>1.56</version>
+            <version>1.8.7</version>
         </dependency>
 
         <!-- Old Hibernate Validator -->
