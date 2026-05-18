@@ -179,6 +179,90 @@
             <artifactId>jackson-core</artifactId>
             <version>2.18.4</version>
         </dependency>
+    
+        <!-- Injected by SBOM.io to fix transitive vulnerability -->
+        <dependency>
+            <groupId>org.bouncycastle</groupId>
+            <artifactId>bcprov-jdk15on</artifactId>
+            <version>1.70</version>
+        </dependency>
+    
+        <!-- Injected by SBOM.io to fix transitive vulnerability -->
+        <dependency>
+            <groupId>org.bouncycastle</groupId>
+            <artifactId>bcprov-jdk15on</artifactId>
+            <version>1.70</version>
+        </dependency>
+    
+        <!-- Injected by SBOM.io to fix transitive vulnerability -->
+        <dependency>
+            <groupId>org.bouncycastle</groupId>
+            <artifactId>bcprov-jdk15on</artifactId>
+            <version>1.70</version>
+        </dependency>
+    
+        <!-- Injected by SBOM.io to fix transitive vulnerability -->
+        <dependency>
+            <groupId>org.bouncycastle</groupId>
+            <artifactId>bcprov-jdk15on</artifactId>
+            <version>1.70</version>
+        </dependency>
+    
+        <!-- Injected by SBOM.io to fix transitive vulnerability -->
+        <dependency>
+            <groupId>org.bouncycastle</groupId>
+            <artifactId>bcprov-jdk15on</artifactId>
+            <version>1.70</version>
+        </dependency>
+    
+        <!-- Injected by SBOM.io to fix transitive vulnerability -->
+        <dependency>
+            <groupId>org.springframework</groupId>
+            <artifactId>spring-core</artifactId>
+            <version>6.2.8</version>
+        </dependency>
+    
+        <!-- Injected by SBOM.io to fix transitive vulnerability -->
+        <dependency>
+            <groupId>org.springframework</groupId>
+            <artifactId>spring-webmvc</artifactId>
+            <version>6.2.8</version>
+        </dependency>
+    
+        <!-- Injected by SBOM.io to fix transitive vulnerability -->
+        <dependency>
+            <groupId>org.springframework</groupId>
+            <artifactId>spring-webmvc</artifactId>
+            <version>6.2.8</version>
+        </dependency>
+    
+        <!-- Injected by SBOM.io to fix transitive vulnerability -->
+        <dependency>
+            <groupId>org.springframework</groupId>
+            <artifactId>spring-webmvc</artifactId>
+            <version>6.2.8</version>
+        </dependency>
+    
+        <!-- Injected by SBOM.io to fix transitive vulnerability -->
+        <dependency>
+            <groupId>org.springframework</groupId>
+            <artifactId>spring-webmvc</artifactId>
+            <version>6.2.8</version>
+        </dependency>
+    
+        <!-- Injected by SBOM.io to fix transitive vulnerability -->
+        <dependency>
+            <groupId>org.springframework</groupId>
+            <artifactId>spring-webmvc</artifactId>
+            <version>6.2.8</version>
+        </dependency>
+    
+        <!-- Injected by SBOM.io to fix transitive vulnerability -->
+        <dependency>
+            <groupId>com.fasterxml.jackson.core</groupId>
+            <artifactId>jackson-core</artifactId>
+            <version>2.18.4</version>
+        </dependency>
     </dependencies>
 
     <build>
