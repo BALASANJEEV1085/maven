@@ -1,16 +1,22 @@
 {
-  "supplier": "Example Software Solutions Pvt Ltd",
-  "componentName": "simple-utils",
+  "name": "ntia-demo-app",
   "version": "1.0.0",
-  "purl": "pkg:npm/simple-utils@1.0.0",
-  "dependencies": [
-    {
-      "relationship": "DEPENDS_ON",
-      "component": "lodash",
-      "version": "4.17.21",
-      "purl": "pkg:npm/lodash@4.17.21"
-    }
-  ],
-  "author": "SBOM Generator Team",
-  "timestamp": "2026-06-03T12:00:00Z"
+  "description": "Demo application for NTIA SBOM compliance testing",
+  "author": {
+    "name": "Example Software Solutions Pvt Ltd",
+    "email": "sbom@example.com",
+    "url": "https://example.com"
+  },
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/example/ntia-demo-app.git"
+  },
+  "dependencies": {
+    "axios": "1.11.0",
+    "lodash": "4.17.21",
+    "uuid": "11.1.0",
+    "express": "5.1.0",
+    "moment": "2.30.1"
+  }
 }
