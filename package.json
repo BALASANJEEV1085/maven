@@ -1,22 +1,22 @@
 {
-  "name": "ntia-demo-app",
-  "version": "1.0.0",
-  "description": "Demo application for NTIA SBOM compliance testing",
   "author": {
-    "name": "Example Software Solutions Pvt Ltd",
     "email": "sbom@example.com",
+    "name": "Example Software Solutions Pvt Ltd",
     "url": "https://example.com"
   },
+  "dependencies": {
+    "axios": "1.17.0",
+    "express": "5.1.0",
+    "lodash": "4.18.1",
+    "moment": "2.30.1",
+    "uuid": "14.0.0"
+  },
+  "description": "Demo application for NTIA SBOM compliance testing",
   "license": "MIT",
+  "name": "ntia-demo-app",
   "repository": {
     "type": "git",
     "url": "https://github.com/example/ntia-demo-app.git"
   },
-  "dependencies": {
-    "axios": "1.11.0",
-    "lodash": "4.17.21",
-    "uuid": "11.1.0",
-    "express": "5.1.0",
-    "moment": "2.30.1"
-  }
+  "version": "1.0.0"
 }
